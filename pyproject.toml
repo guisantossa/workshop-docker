@@ -5,6 +5,7 @@ description = ""
 authors = ["Guilherme <gui.santos.sa@gmail.com>"]
 readme = "README.md"
 
+
 [tool.poetry.dependencies]
 python = "^3.11"
 streamlit = "^1.41.1"
